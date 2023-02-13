@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Guardia
+  - Obstaculo
+  - Walkable
   layers:
   - Default
   - TransparentFX
